@@ -1,7 +1,6 @@
 ### Hi, I’m @brennohayden
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/brennohayden/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://instagram.com/brennohayden"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />     
+- 👀 I’m interested in techonologies, programming, gym, bulldogs
+- 🌱 I’m currently learning in english, mobile, financial market
+- 💞️ I’m looking to collaborate on swift projects
+- 📫 How to reach me brennohayden [at] gmail . com
